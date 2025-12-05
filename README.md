@@ -2,17 +2,17 @@
 
 ### Temas que se expusieron
 
-Clase Abstracta
-Herencia Simple y Multiple
-Polimorfismo  
-Principios SOLID
-Singleton
-Factory Method
-Abstract Factory
-Builder
-Prototype
-Adapter
-Composite
-Proxy
-Facade
-Bridge
+- Clase Abstracta
+- Herencia Simple y Multiple
+- Polimorfismo
+- Principios SOLID
+- Singleton
+- Factory Method
+- Abstract Factory
+- Builder
+- Prototype
+- Adapter
+- Composite
+- Proxy
+- Facade
+- Bridge
